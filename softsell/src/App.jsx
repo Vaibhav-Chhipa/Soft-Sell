@@ -7,7 +7,6 @@ import WhyChooseUs from './components/WhyChooseUs';
 import Testimonials from './components/Testimonials';
 import ContactForm from './components/ContactForm';
 import DarkModeToggle from "./components/DarkModeToggle";
-import ChatWidget from './components/ChatWidget';
 import './App.css'
 
 function App() {
@@ -23,7 +22,6 @@ function App() {
       <WhyChooseUs />
       <Testimonials />
       <ContactForm />
-      <ChatWidget />
     </>
   )
 }
